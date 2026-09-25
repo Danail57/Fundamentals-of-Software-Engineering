@@ -16,4 +16,4 @@ systematically design, develop, test, and maintain high-quality software systems
 
 
 # Exercises:
-*All the folders that are named "Week_1, Week_2, etc until the end of this semester" show different task completions including readable source code, validating inputs and outputs, and learning better practices for a better and readable code.*
+*Inside the Week_1 through Week_N folders, you'll find my weekly solutions for this semester. Each project focuses on readable source code, input validation, and overall best practices.*

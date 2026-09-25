@@ -13,3 +13,7 @@ systematically design, develop, test, and maintain high-quality software systems
 *5. Deployment & DevOps: Automating the delivery pipeline (CI/CD) and running systems in production.*
 
 *6. Version Control & Collaboration: Utilizing tools like Git to track changes and coordinate development across teams.*
+
+
+# Exercises:
+*All the folders show different task completions including readable source code, validating inputs and outputs, and learning better practices for a better and readable code.*

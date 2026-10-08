@@ -9,6 +9,6 @@
 4. https://www.the-waves.org/2022/03/27/software-engineering-management-for-value-economics/
 
 
-*Моделът COCOMO*
+*Sources for Моделът COCOMO*
 
 1. https://www.blog.hexadecimalsoftware.com/blog/technology/cocomo-model-in-software-engineering/

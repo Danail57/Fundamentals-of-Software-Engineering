@@ -12,3 +12,5 @@
 *Sources for Моделът COCOMO*
 
 1. https://www.blog.hexadecimalsoftware.com/blog/technology/cocomo-model-in-software-engineering/
+
+2. https://medium.com/@rafsan_sadman/cocomo-estimation-understanding-the-constructive-cost-model-e6678ff915e7

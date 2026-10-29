@@ -17,3 +17,5 @@ systematically design, develop, test, and maintain high-quality software systems
 
 # Exercises:
 *Inside the Week_1 through Week_N folders, you'll find my weekly solutions for this semester. Each project focuses on readable source code, input validation, and overall best practices.*
+
+https://www.plantuml.com/plantuml/uml/SyfFKj2rKt3CoKnELR1Io4ZDoSa700002#google_vignette
